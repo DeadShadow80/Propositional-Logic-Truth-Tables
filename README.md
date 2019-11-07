@@ -3,9 +3,9 @@
 Input a propositional logic formula to be checked as WFF.
 Enter yes/1 to either enter custom interpretations, or see all possible interpretations in a Truth table drawn in the console.
 
-Symbols: ( ) ¬ ∧ ∨ ⇒ ⇔     
-Note: ! & | are accepted as well for negation, AND and OR
-Also, for truth and false formulas, you can use these symbols: ⊥ - false, ፐ - true
+Symbols: ( ) ¬ ∧ ∨ ⇒ ⇔ 
+Note: ! & | are accepted as well for negation, AND and OR.
+Also, for truth and false formulas, you can use these symbols: ⊥ - false, ፐ - true.
 
 
 # Example1: 
@@ -16,4 +16,4 @@ Also, for truth and false formulas, you can use these symbols: ⊥ - false, ፐ 
 ((P⇒(¬Q))∧(¬((P⇒(¬Q))∨(¬(P⇔R)))))
 
 Preview of truth table:
-![alt text](https://imgur.com/a/JmZSdrr)
+![alt text](https://i.imgur.com/5uiO7Fb.png)
